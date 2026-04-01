@@ -65,7 +65,7 @@ Predicted Marks: 48
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Programmer
 
 Amogh
 
